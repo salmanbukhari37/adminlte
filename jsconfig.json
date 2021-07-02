@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "jsx": "react",
+        "paths": {
+            "page": [
+                "page"
+            ],
+            "utils": [
+                "utils"
+            ],
+            "user": [
+                "user"
+            ],
+            "adminlte": [
+                "adminlte"
+            ],
+            "renegade": [
+                "renegade"
+            ],
+            "banners": [
+                "banners"
+            ]
+        }
+    },
+    "include": [
+        "src"
+    ]
+}
